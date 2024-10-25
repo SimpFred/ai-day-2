@@ -24,5 +24,6 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 - [Create React Project](https://github.com/SimpFred/ai-react-create-project)
   - Used this promt to generate whats in the repo: "I want to create a React project from scratch that can fetch data from localhost:4000/albums and display it in a nice way on localhost:4200."
-- 
+- [Poker Challange](https://github.com/SimpFred/java-poker-challenge)
+  - Solved the core and extension 1 & 2 for the poker challange by only using copilot.
 - 
